@@ -27,6 +27,8 @@
             
 
 
+              
+
 
             Console.WriteLine(sayi1 + " " + islem + " " + sayi2 + " = " + sonuc);
         }
