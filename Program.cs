@@ -15,8 +15,13 @@
             Console.Write("İkinci Sayıyı Giriniz: ");
             int sayi2 = int.Parse(Console.ReadLine());
 
+            switch (islem)
+            {
+                case "+":
+                    Console.WriteLine(sayi1 + sayi2);
+                    break;
+            }
 
-            
         }
     }
 }
