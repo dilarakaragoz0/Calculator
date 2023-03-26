@@ -20,6 +20,10 @@
                 case "+":
                     Console.WriteLine(sayi1 + sayi2);
                     break;
+                case "-":
+                    Console.WriteLine(sayi1 - sayi2);
+                    break;
+
             }
 
         }
